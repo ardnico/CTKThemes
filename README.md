@@ -1,0 +1,2 @@
+# CTKThemes
+customtkinterで各アイテムのカラーテーマを管理
